@@ -5,7 +5,7 @@ Delivery System Application
 
 Link to google drive with documentation: https://drive.google.com/drive/folders/1XTkQnpd3fBCVHEAsX2TQxAsdB5yNfWlX?usp=sharing
 
-**Note:** There is also a "documentation" folder in the repository with all the documentation for the project.
+**Note:** There is also a `documentation` folder in the repository with all the documentation for the project.
 
 ## Objective
 
